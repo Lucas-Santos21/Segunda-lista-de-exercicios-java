@@ -19,7 +19,7 @@ public class TP02Ex05{
 			
 			for(int j = 0; j< 2; j++){
 				
-				System.out.println("Digite o valor para a posição [" + i + "]["+ j + "]: ");
+				System.out.println("Digite o valor para a posicao [" + i + "]["+ j + "]: ");
 				mat[i][j] = scan.nextDouble();
 				
 			}
